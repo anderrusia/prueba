@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Buscar</title>
+<script type="text/javascript" src="js/buscarjs.css"></script>
+<link rel="stylesheet" type="text/css" href="css/estilos.css">
+
+</head>
+<body>
+<from action="" method="post" autocomplete="off" id="form-search">
+<hl align="center">BUSCAR</hl>
+<input align="center" type="text" placeholder="Ingresa una busqueda">
+</form>
+</body>
+</html>
